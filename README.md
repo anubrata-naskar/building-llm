@@ -1,4 +1,4 @@
-## Building LLM - From Scratch Implementation
+# Building LLM - From Scratch Implementation
 
 A comprehensive project for building and training Large Language Models (LLMs) from scratch using PyTorch. This project implements core LLM components including tokenization, embeddings, self-attention, multi-head attention, and GPT-style transformer models with complete training pipelines.
 
